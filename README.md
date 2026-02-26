@@ -27,6 +27,6 @@ North America leads total bike purchases.
 Short-distance commuters drive the highest purchase activity.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 
 This project demonstrates my ability to transform raw data into interactive dashboards and business insights using Excel.
